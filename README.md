@@ -1,5 +1,13 @@
 # nosleep.js
 
+## Setup
+
+- `npm install`
+- `npm run dev`
+- localhost:1234
+
+## Ideas!
+
 - full screen; no scrollbars - maybe have a disclaimer going off the edge of the page and user be unable to scroll to it?
 - markee
 - multiple pop ups
@@ -14,4 +22,4 @@
 - are you sure you want to leave?
 - fake invalid input warning - first time user attempts to submit, tell them their input is invalid regardless of value
 - "your daily 10 minutes of a man screaming"
-- anxiety as a service? 
+- anxiety as a service?
